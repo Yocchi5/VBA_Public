@@ -34,7 +34,7 @@ Sub Sample()
     Dim myPath  As String
     Dim FilePath As String
     
-    myPath = "C:\Users\ato5f\由恵フォルダ\003_PC\Office\Excel\マクロ"
+    myPath = "対象フォルダのパス"
     
     
     FilePath = MyGetShortPath(myPath)   'NULL除去
